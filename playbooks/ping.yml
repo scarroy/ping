@@ -2,8 +2,8 @@
 
 - hosts: all
   vars:
-    http_proxy: "http://wwwproxy.sandia.gov:80"
-    https_proxy: "http://wwwproxy.sandia.gov:80"
+    http_proxy: ""
+    https_proxy: ""
   gather_facts: True
   remote_user: scarroy
   become: no
