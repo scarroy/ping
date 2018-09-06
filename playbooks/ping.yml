@@ -1,6 +1,6 @@
 ---
 
-- hosts: all
+- hosts: webserver
   vars:
     http_proxy: ""
     https_proxy: ""
