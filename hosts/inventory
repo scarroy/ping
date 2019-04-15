@@ -1,5 +1,4 @@
 [webserver]
-scarroy-virt3.sandia.gov
-scarroy-virt2.sandia.gov
-scarroy-virt4.sandia.gov
-scarroy-madeUp.sandia.gov
+infod-ng.sandia.gov
+prod-ng.sandia.gov
+scarroy-virt.sandia.gov
