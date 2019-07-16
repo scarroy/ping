@@ -1,3 +1,6 @@
-[webserver]
-infod-ng.sandia.gov
-prod-ng.sandia.gov
+[gms-swarm]
+gms-app1b.sandia.gov
+gms-app2b.sandia.gov
+gms-app3b.sandia.gov
+gms-cass1b.sandia.gov
+gms-db1b.sandia.gov
